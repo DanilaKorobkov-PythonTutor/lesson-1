@@ -1,7 +1,5 @@
 # Урок 1
 
 ## Как python запускает программы
-```bash
-python3 main.py
-```
-main.py --> main.pyc --> PVM
+
+![alt text](https://github.com/DanilaKorobkov-PythonTutor/lesson-1/blob/master/resources/1.png)
